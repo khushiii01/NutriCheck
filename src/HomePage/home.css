@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'Rocher';
+  src: url(https://assets.codepen.io/9632/RocherColorGX.woff2);
+}
+@font-palette-values --Grays {
+  base-palette: 10;
+}
+h2{
+  color:black;
+  font-weight: 800;
+  font-size: 30px;
+  -webkit-text-stroke: 0.5px white; 
+  font-family: sans-serif;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding:63px;
+    
+}
+
+  #html5-qrcode-button-camera-permission{
+    display:none;
+  }
+  #html5qr-code-full-region{
+    padding:10px;
+    border: 1px solid white !important;
+    width:300px;
+    img{
+     width:30%;
+    }
+  }
+  .heading{
+   text-align: center;
+   font-size: 70px;
+   font-family: 'Rocher';
+
+   
+  }
+  #html5-qrcode-anchor-scan-type-change{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    font-size: 21px;
+    /* -webkit-text-stroke: 0.1px white;   */
+    &:hover{
+      color:white;
+     }
+  }
+  /* .html5-qrcode-element{
+    display:none;
+  } */
