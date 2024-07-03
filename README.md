@@ -1,31 +1,6 @@
-# NutriScan
+# NutriCheck
 
-NutriScan is a web application that provides nutritional information ( such as Product name, categories, ingredients ) for food products by utilizing the Open Food Facts API. Users can retrieve nutritional data either by entering the barcode into the search bar or by uploading an image of the barcode.
-
-
-## Getting Started
-
-To run the NutriScan web application locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/MonalikaPatnaik/NutriScan.git
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    npm install
-    ```
-
-3. Start the development server:
-
-    ```bash
-    npm start
-    ```
-
-4. Open your web browser and visit [http://localhost:3000](http://localhost:3000) to access NutriScan.
+NutriCheck is a web application that provides nutritional information ( such as Product name, categories, ingredients ) for food products by utilizing the Open Food Facts API. Users can retrieve nutritional data either by entering the barcode into the search bar or by uploading an image of the barcode.
 
 ## Usage
 
