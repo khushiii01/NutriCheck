@@ -30,5 +30,5 @@ NutriCheck is a web application that provides nutritional information ( such as 
 
 ## Acknowledgments
 
-- NutriScan uses the [Open Food Facts API](https://openfoodfacts.github.io/openfoodfacts-server/api/) for fetching the nutritional information of the food product
+- NutriCheck uses the [Open Food Facts API](https://openfoodfacts.github.io/openfoodfacts-server/api/) for fetching the nutritional information of the food product
 - The web based barcode scanner is made using [html5-qrcode](https://github.com/mebjas/html5-qrcode#for-using-inline-qr-code-scanning-with-webcam-or-smartphone-camera), a lightweight & cross platform QR Code and Bar code scanning library for the web
